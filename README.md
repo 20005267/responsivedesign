@@ -159,8 +159,8 @@ Publish the website in the given URL.
 ## CODE VALIDATION REPORT:
 ![output](./static/img/report1.jpg)
 
-```
-## RESULT:
 
+## RESULT:
+```
 Thus a website is designed for the book publishing company and is hosted in the 
 URL: http://kayalvizhi.student.saveetha.in:8000/responsivepage. HTML code is validated.
